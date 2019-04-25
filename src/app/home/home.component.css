@@ -1,69 +1,21 @@
-* {
-  margin: 0 auto;
-  padding: 0;
-  text-align: center;
-}
+
 
 img{
   width: 20%;
-  height: 10%;
+  height: 20%;
   float: right;
   padding: 20px;
 }
 
-
-.section {
-
-  background-color:#E4E1CA ;
-  float:right  ;
-}
-
-
-.goldenbay{
-  float:right;
-  margin-top:5%;
-  margin-left: 5%;
-  width: 50%;
-}
-
-
-
-.title a{
-  font-size: 1.5rem;
-  letter-spacing: 0.15em;
+h1{
+  color: #343434;
+  font-weight: normal;
+  font-family: 'Ultra', sans-serif;
+  font-size: 36px;
   text-transform: uppercase;
-  text-decoration: none;
-}
-.aside a {
-  display :block;
-  text-decoration: none;
-  margin-left: 1rem;
-  padding: 0.5rem;
-  text-align: left;
-
-  font-size: 1.2rem;
-  letter-spacing: 0.15em;
-  text-transform: uppercase;
-  text-decoration: none;
+  text-shadow: 0 2px white, 0 3px #777;
 }
 
-.aside a:first-of-type {
-  margin-top: 2rem;
-}
-
-.aside a:hover{
-  background-color: #bf6500;
-  color: #fff;
-  font-size: 1.5rem;
-  margin-left: 0;
-}
-
-.figcaptio{
-  margin-left: 6rem;
-}
-.caption {
-  margin-left: 4rem;
-}
 
 .section p {
   margin-left: 1.5rem;
@@ -74,4 +26,8 @@ img{
   font-size: 1rem;
   text-align: justify;
 }
+
+
+
+
 
